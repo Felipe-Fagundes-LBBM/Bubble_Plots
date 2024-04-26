@@ -1,0 +1,7 @@
+Term	P-value	Adjusted P-value	Combined Score
+Negative Regulation Of Glucocorticoid Receptor Signaling Pathway (GO:2000323)	0,02499856	0,18943719	183,47849760
+Regulation Of Glucocorticoid Receptor Signaling Pathway (GO:2000322)	0,02992354	0,18943719	139,62046671
+Definitive Hemopoiesis (GO:0060216)	0,02992354	0,18943719	139,62046671
+Receptor-Mediated Virion Attachment To Host Cell (GO:0046813)	0,02992354	0,18943719	139,62046671
+Negative Regulation Of Low-Density Lipoprotein Receptor Activity (GO:1905598)	0,00866951	0,18943719	677,12452240
+Regulation Of Skeletal Muscle Contraction (GO:0014819)	0,00866951	0,18943719	677,12452240

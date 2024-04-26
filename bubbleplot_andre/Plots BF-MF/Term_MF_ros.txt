@@ -1,0 +1,7 @@
+Term	P-value	Adjusted P-value	Combined Score
+Voltage-Gated Calcium Channel Activity (GO:0005245)	0,002107	0,109590	202,122017
+Apolipoprotein Receptor Binding (GO:0034190)	0,007230	0,133277	878,827148
+Prostaglandin Transmembrane Transporter Activity (GO:0015132)	0,015839	0,133277	295,515574
+Semaphorin Receptor Binding (GO:0030215)	0,031435	0,133277	117,387149
+Neuropeptide Activity (GO:0160041)	0,037047	0,133277	93,904790
+Monocarboxylic Acid Transmembrane Transporter Activity (GO:0008028)	0,045406	0,143172	71,032901

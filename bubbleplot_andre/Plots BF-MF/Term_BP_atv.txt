@@ -1,0 +1,7 @@
+Term	P-value	Adjusted P-value	Combined Score
+Striated Muscle Hypertrophy (GO:0014897)	0,00025001	0,03350180	1111,22791505
+Regulation Of Epithelial Cell Proliferation (GO:0050678)	0,00116952	0,04948910	63,39805396
+Muscle Contraction (GO:0006936)	0,00131911	0,05100373	60,18301526
+Regulation Of Endothelial Cell Apoptotic Process (GO:2000351)	0,00133219	0,05100373	100,62636405
+Sensory Perception Of Pain (GO:0019233)	0,00452138	0,11015730	120,46720485
+Integrated Stress Response Signaling (GO:0140467)	0,00938063	0,15084057	69,42350665
